@@ -1,0 +1,151 @@
+order_id,customer_id,category,product,price,quantity,order_date,status,payment_method
+1,1100,Clothing,T-Shirt,928.0,3,2023-10-19,Returned,Credit Card
+2,1003,Beauty,Perfume,173.62,5,2023-04-18,Delivered,Credit Card
+3,1084,Home,Chair,838.27,2,2023-08-17,Returned,Debit Card
+4,1012,Clothing,Jacket,119.68,1,2023-11-07,Returned,Net Banking
+5,1030,Home,Chair,985.11,3,2023-04-13,Returned,Net Banking
+6,1047,Books,Non-fiction,881.64,3,2023-03-17,Delivered,Credit Card
+7,1040,Beauty,Moisturizer,849.77,2,2023-08-31,Returned,Cash on Delivery
+8,1075,Clothing,Jeans,554.22,4,2023-09-25,Returned,Net Banking
+9,1095,Home,Chair,731.11,5,2023-02-15,Returned,Net Banking
+10,1011,Electronics,Smartphone,220.6,3,2023-06-08,Delivered,Credit Card
+11,1068,Home,Table,186.12,3,2023-01-02,Returned,Net Banking
+12,1018,Beauty,Perfume,227.24,3,2023-06-15,Delivered,UPI
+13,1022,Clothing,Jacket,64.17,4,2023-05-08,Returned,UPI
+14,1062,Home,Chair,732.78,3,2023-10-21,Returned,Cash on Delivery
+15,1095,Books,Fiction,415.89,4,2023-10-08,Returned,Credit Card
+16,1027,Books,Comics,599.61,4,2023-04-20,Delivered,Cash on Delivery
+17,1060,Electronics,Smartphone,403.47,4,2023-01-26,Delivered,Net Banking
+18,1083,Clothing,T-Shirt,628.75,4,2023-05-19,Delivered,Debit Card
+19,1039,Electronics,Headphones,641.14,4,2023-04-28,Returned,Debit Card
+20,1013,Clothing,Jacket,54.51,4,2023-04-05,Returned,UPI
+21,1014,Clothing,T-Shirt,680.33,3,2023-10-01,Returned,Cash on Delivery
+22,1073,Clothing,Jacket,52.76,3,2023-08-11,Delivered,UPI
+23,1018,Home,Table,397.17,4,2023-11-21,Delivered,Net Banking
+24,1068,Home,Table,516.01,5,2023-01-09,Returned,UPI
+25,1040,Electronics,Laptop,728.21,5,2023-11-01,Delivered,Cash on Delivery
+26,1088,Electronics,Laptop,146.83,3,2023-11-15,Delivered,UPI
+27,1082,Books,Fiction,987.28,1,2023-12-06,Delivered,Net Banking
+28,1084,Beauty,Moisturizer,376.27,5,2023-08-09,Delivered,Net Banking
+29,1005,Home,Table,358.02,5,2023-09-16,Delivered,Credit Card
+30,1100,Home,Chair,415.96,1,2023-09-22,Returned,UPI
+31,1089,Home,Table,80.87,5,2023-11-23,Returned,Credit Card
+32,1000,Clothing,Jeans,79.34,1,2023-10-06,Returned,Credit Card
+33,1038,Home,Table,151.22,2,2023-10-16,Delivered,Net Banking
+34,1051,Beauty,Moisturizer,749.13,2,2023-11-10,Returned,UPI
+35,1072,Books,Non-fiction,638.96,2,2023-09-26,Returned,Credit Card
+36,1009,Clothing,T-Shirt,83.66,2,2023-03-16,Returned,UPI
+37,1079,Home,Lamp,845.62,4,2023-11-03,Returned,Debit Card
+38,1024,Electronics,Headphones,284.36,3,2023-03-23,Returned,Net Banking
+39,1011,Clothing,Jacket,304.05,3,2023-12-03,Returned,Debit Card
+40,1097,Clothing,Jacket,959.96,1,2023-02-12,Delivered,Cash on Delivery
+41,1092,Electronics,Laptop,588.2,5,2023-07-07,Delivered,Debit Card
+42,1026,Home,Table,689.95,3,2023-09-13,Delivered,Cash on Delivery
+43,1084,Clothing,T-Shirt,780.44,1,2023-03-26,Delivered,UPI
+44,1080,Home,Lamp,570.64,1,2023-06-03,Delivered,Debit Card
+45,1043,Home,Table,158.99,3,2023-05-30,Delivered,Debit Card
+46,1045,Electronics,Headphones,129.26,5,2023-02-01,Returned,Net Banking
+47,1068,Electronics,Headphones,613.48,2,2023-02-01,Delivered,Cash on Delivery
+48,1088,Books,Fiction,642.22,3,2023-08-31,Returned,UPI
+49,1041,Beauty,Perfume,36.38,1,2023-09-02,Delivered,Net Banking
+50,1009,Home,Chair,68.62,4,2023-08-29,Returned,Debit Card
+51,1077,Clothing,Jacket,318.6,2,2023-01-16,Delivered,UPI
+52,1011,Electronics,Headphones,929.06,3,2023-02-26,Returned,Debit Card
+53,1064,Books,Non-fiction,713.29,4,2023-06-19,Delivered,Cash on Delivery
+54,1081,Home,Chair,233.75,1,2023-03-22,Delivered,Net Banking
+55,1012,Home,Table,90.74,5,2023-01-27,Delivered,Cash on Delivery
+56,1043,Books,Comics,697.64,2,2023-07-28,Returned,UPI
+57,1074,Beauty,Lipstick,508.97,5,2023-10-13,Returned,Credit Card
+58,1059,Home,Lamp,162.69,1,2023-10-06,Returned,Cash on Delivery
+59,1047,Electronics,Laptop,296.4,5,2023-11-20,Returned,Net Banking
+60,1034,Home,Lamp,905.59,2,2023-08-18,Delivered,Debit Card
+61,1013,Beauty,Perfume,363.15,4,2023-02-19,Returned,UPI
+62,1028,Books,Non-fiction,962.03,3,2023-03-02,Returned,Net Banking
+63,1016,Clothing,Jeans,164.17,5,2023-08-17,Returned,Credit Card
+64,1092,Home,Chair,982.66,5,2023-09-24,Returned,Net Banking
+65,1068,Beauty,Lipstick,269.59,4,2023-01-22,Returned,Cash on Delivery
+66,1048,Clothing,Jacket,292.05,1,2023-01-03,Returned,Debit Card
+67,1064,Beauty,Moisturizer,137.25,4,2023-01-27,Returned,UPI
+68,1038,Beauty,Moisturizer,673.86,4,2023-02-18,Delivered,Net Banking
+69,1065,Home,Table,600.64,2,2023-12-12,Delivered,Credit Card
+70,1001,Home,Lamp,801.31,3,2023-08-20,Returned,Credit Card
+71,1100,Electronics,Headphones,867.13,3,2023-04-10,Returned,Net Banking
+72,1076,Home,Chair,731.99,2,2023-01-11,Returned,Debit Card
+73,1049,Books,Comics,250.87,1,2023-03-25,Delivered,Credit Card
+74,1027,Home,Table,686.63,3,2023-10-19,Returned,Credit Card
+75,1020,Beauty,Moisturizer,191.96,4,2023-10-01,Delivered,Cash on Delivery
+76,1000,Beauty,Lipstick,832.49,2,2023-05-13,Delivered,Cash on Delivery
+77,1081,Books,Fiction,731.22,1,2023-03-31,Returned,Debit Card
+78,1029,Books,Non-fiction,68.88,4,2023-08-01,Returned,Debit Card
+79,1085,Electronics,Headphones,372.12,1,2023-01-10,Delivered,Cash on Delivery
+80,1049,Clothing,Jacket,404.11,4,2023-12-11,Delivered,Cash on Delivery
+81,1080,Home,Lamp,240.98,4,2023-12-12,Delivered,Credit Card
+82,1010,Books,Comics,460.78,5,2023-04-23,Returned,Credit Card
+83,1016,Books,Fiction,70.43,3,2023-05-22,Delivered,UPI
+84,1098,Beauty,Perfume,802.15,2,2023-06-18,Delivered,Credit Card
+85,1048,Beauty,Moisturizer,192.0,2,2023-05-09,Delivered,Net Banking
+86,1056,Beauty,Lipstick,849.17,4,2023-02-18,Returned,UPI
+87,1004,Books,Comics,55.54,2,2023-02-05,Returned,UPI
+88,1052,Electronics,Laptop,293.66,2,2023-10-31,Returned,UPI
+89,1047,Beauty,Perfume,429.68,3,2023-01-16,Returned,Net Banking
+90,1090,Clothing,Jacket,432.83,1,2023-09-12,Delivered,UPI
+91,1047,Beauty,Perfume,656.8,3,2023-09-09,Returned,Credit Card
+92,1073,Books,Fiction,675.53,4,2023-04-29,Returned,Debit Card
+93,1080,Electronics,Smartphone,890.92,1,2023-01-13,Delivered,Credit Card
+94,1067,Home,Lamp,319.85,4,2023-10-25,Delivered,Cash on Delivery
+95,1083,Clothing,Jeans,804.78,5,2023-01-10,Delivered,Cash on Delivery
+96,1071,Books,Non-fiction,612.54,5,2023-10-08,Returned,Cash on Delivery
+97,1064,Electronics,Headphones,53.35,3,2023-01-07,Returned,Debit Card
+98,1002,Books,Fiction,396.04,1,2023-04-15,Delivered,Debit Card
+99,1028,Electronics,Laptop,697.53,4,2023-11-19,Returned,Cash on Delivery
+100,1072,Clothing,T-Shirt,560.23,3,2023-02-19,Returned,Net Banking
+101,1042,Books,Fiction,665.38,4,2023-01-28,Delivered,Debit Card
+102,1082,Books,Comics,957.15,4,2023-04-22,Delivered,Cash on Delivery
+103,1028,Beauty,Lipstick,927.36,2,2023-06-06,Delivered,Credit Card
+104,1034,Books,Comics,570.94,2,2023-09-09,Returned,Credit Card
+105,1098,Clothing,Jacket,530.78,2,2023-10-04,Returned,Credit Card
+106,1070,Clothing,T-Shirt,54.26,2,2023-03-29,Delivered,Credit Card
+107,1035,Clothing,Jacket,301.38,5,2023-10-11,Returned,Net Banking
+108,1037,Clothing,Jacket,382.23,3,2023-10-06,Returned,Cash on Delivery
+109,1024,Electronics,Smartphone,903.63,2,2023-06-03,Delivered,Credit Card
+110,1017,Electronics,Headphones,98.24,3,2023-11-09,Delivered,Credit Card
+111,1046,Electronics,Smartphone,220.34,5,2023-03-05,Returned,Net Banking
+112,1091,Books,Non-fiction,744.21,5,2023-01-26,Delivered,Cash on Delivery
+113,1034,Electronics,Laptop,407.09,3,2023-07-09,Delivered,Debit Card
+114,1008,Beauty,Lipstick,384.98,4,2023-10-07,Returned,Net Banking
+115,1074,Books,Fiction,801.05,1,2023-09-25,Delivered,Cash on Delivery
+116,1012,Electronics,Smartphone,260.06,4,2023-02-11,Delivered,UPI
+117,1055,Beauty,Moisturizer,596.61,5,2023-01-03,Returned,Net Banking
+118,1003,Beauty,Moisturizer,504.65,2,2023-01-06,Delivered,Credit Card
+119,1052,Home,Table,727.58,2,2023-11-11,Returned,Cash on Delivery
+120,1099,Books,Non-fiction,156.44,2,2023-12-19,Delivered,Debit Card
+121,1040,Home,Chair,814.75,2,2023-03-21,Returned,Net Banking
+122,1041,Books,Comics,232.62,5,2023-06-25,Delivered,Net Banking
+123,1021,Books,Fiction,643.64,5,2023-10-07,Delivered,Cash on Delivery
+124,1059,Electronics,Laptop,710.4,5,2023-07-22,Returned,Debit Card
+125,1002,Clothing,T-Shirt,934.95,2,2023-10-23,Delivered,Net Banking
+126,1094,Books,Fiction,472.5,2,2023-06-18,Returned,UPI
+127,1024,Beauty,Moisturizer,162.38,1,2023-09-09,Delivered,Cash on Delivery
+128,1057,Clothing,Jacket,192.43,1,2023-02-01,Delivered,Cash on Delivery
+129,1057,Electronics,Headphones,150.69,1,2023-02-01,Returned,UPI
+130,1009,Clothing,T-Shirt,184.37,1,2023-11-05,Returned,Net Banking
+131,1039,Home,Chair,765.56,5,2023-03-27,Delivered,Credit Card
+132,1072,Home,Chair,389.51,3,2023-07-07,Returned,Cash on Delivery
+133,1046,Clothing,Jeans,110.27,3,2023-08-27,Delivered,Debit Card
+134,1021,Electronics,Headphones,624.96,5,2023-10-29,Returned,Net Banking
+135,1086,Electronics,Headphones,657.91,2,2023-04-23,Returned,UPI
+136,1011,Books,Non-fiction,124.57,1,2023-12-30,Delivered,Debit Card
+137,1061,Electronics,Smartphone,863.16,3,2023-01-29,Delivered,Cash on Delivery
+138,1007,Home,Lamp,213.0,2,2023-08-14,Returned,Debit Card
+139,1060,Beauty,Lipstick,275.7,5,2023-01-01,Delivered,Cash on Delivery
+140,1010,Books,Comics,809.23,2,2023-01-22,Returned,UPI
+141,1097,Clothing,Jeans,93.13,4,2023-07-21,Returned,Net Banking
+142,1052,Clothing,Jeans,129.27,5,2023-08-04,Delivered,Cash on Delivery
+143,1049,Books,Non-fiction,780.21,4,2023-12-04,Delivered,Credit Card
+144,1089,Home,Chair,823.45,4,2023-08-08,Delivered,Credit Card
+145,1030,Home,Chair,426.23,3,2023-07-29,Returned,Cash on Delivery
+146,1096,Home,Chair,972.86,2,2023-06-02,Delivered,Credit Card
+147,1018,Clothing,Jeans,484.8,5,2023-09-30,Returned,Debit Card
+148,1070,Clothing,T-Shirt,39.69,2,2023-07-26,Returned,UPI
+149,1021,Beauty,Perfume,526.07,5,2023-07-10,Returned,Credit Card
+150,1098,Clothing,Jeans,825.96,3,2023-01-15,Returned,UPI
