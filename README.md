@@ -38,6 +38,7 @@ The analysis focuses on:
 - Data Visualization
 - Dashboard Interpretation
 - Storytelling with Data
+- SQL (join ,cte , windowsfunction )
 
 ### 📚 Libraries & Tools:
 - **Python** (FPDF for PDF generation)
